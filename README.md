@@ -4,3 +4,4 @@ Belajar berkolaborsi menggunakan git
 - Buat commit
 - Invite anggotanya
 - Membuat Projec
+- Menyelesaikan projec
